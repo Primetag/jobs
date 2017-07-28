@@ -3,7 +3,7 @@ layout: post
 title:  "Senior Software Engineer"
 description: "We're looking for a senior software engineer eager to work in a startup environment with a global scale ambition. This is not a developer position, it's an engineering position. This means it requires the ambition to pursue new technologies and processes and be able to keep up with an already highly capable tech team, in order to grow our competitive edge."
 date:   2017-07-28 13:10:54
-categories: technology
+categories: engineering
 social_media_message: "Primetag is looking for a Senior Software Engineer!"
 ---
 
