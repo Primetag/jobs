@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Senior Software Engineer"
-description: "We're looking for a senior software engineer eager to work in a startup environment with a global scale ambition. This is not a developer position, it's an engineering position. This means it requires the ambition to pursue new technologies and processes and be able to keep up with an already highly capable tech team, in order to grow our competitive edge."
+title:  "Software Engineer"
+description: "We're looking for a software engineer eager to work in a startup environment with a global scale ambition. This is not a developer position, it's an engineering position. This means it requires the ambition to pursue new technologies and processes and be able to keep up with an already highly capable tech team, in order to grow our competitive edge."
 date:   2017-07-28 13:10:54
 categories: engineering
-social_media_message: "Primetag is looking for a Senior Software Engineer!"
+social_media_message: "Primetag is looking for a Software Engineer!"
 ---
 
 ## **Who we are** ##
@@ -41,7 +41,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Offer and perks** ##
 
-* Competitive salary
+* Competitive compensation, from 1100€ up to 1700€ base salary, depending on your experience, skill set and performance.
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Office in a penthouse by the beach, in a quiet area
 * Amazing ocean panoramic view, with loads of natural light
