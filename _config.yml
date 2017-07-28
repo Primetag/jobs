@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Tech Jobs
-email: your-email@domain.com
+title: Open Job Positions
+email: jobs@primetag.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/jobs" # the subpath of your site, e.g. /blog
-url: "http://nycplanning.github.io" # the base hostname & protocol for your site
-twitter_username: NYCPlanning
-github_username:  nycplanning
+  Open job positions at Primetag. Primetag is a young, ambitious 
+  and growing tech company, working towards fundamentally empowering 
+  the influence world. Using engineering and innovation Primetag 
+  tackles the most profound problem hovering the advertising sector.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jobs.primetag.net" # the base hostname & protocol for your site
+twitter_username: helloprimetag
+github_username:  primetag
 
 # Build settings
 markdown: kramdown

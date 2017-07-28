@@ -242,15 +242,17 @@
 }
 
 /**
- * Customizations for Tech Jobs Site
+ * Customizations for Jobs Site
  */
 
 #logo {
-    background-image: url('http://www1.nyc.gov/assets/planning/images/content/header/logo.png');
+    background-image: url('http://primetag2.azureedge.net/static/graphics/svgs/logo.svg');
     background-size: contain;
     background-repeat: no-repeat;
-    width: 66px;
+    width: 120px;
     height: 58px;
+	top: 17px;
+    position: relative;
     display: inline-block;  
 }
 
