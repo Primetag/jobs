@@ -20,6 +20,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Requirements** ##
 
+* A degree related with web development / multimedia / design
 * 2+ years working with javascript, css and html
 * Responsive design, browser compatibility, and web performance are basic concepts to you
 * Understand the meaning of scalable development
