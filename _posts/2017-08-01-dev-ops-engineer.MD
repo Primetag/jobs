@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOps Engineer"
-description: ""
+description: "We're looking for a devops engineer eager to work in a startup environment with a global scale ambition. As a DevOps engineer you will grow and maintain our infrastructure, while automating development and creation processes."
 date:   2017-08-01 13:38:00
 categories: engineering
 social_media_message: "Primetag is looking for a DevOps Engineer!"
