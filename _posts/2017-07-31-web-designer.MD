@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Web Designer"
-description: ""
+description: "We're looking for a web designer eager to work in a startup environment with a global scale ambition. As a Web designer you will be creating deeply architectured user interfaces, working together with web developers, engineers and marketers, to give concepts a body and soul."
 date:   2017-07-31 18:01:00
 categories: product
 social_media_message: "Primetag is looking for a Web Designer!"
