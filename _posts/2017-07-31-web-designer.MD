@@ -9,7 +9,7 @@ social_media_message: "Primetag is looking for a Web Designer!"
 
 ## **Who we are** ##
 
-Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: bloggers, youtubers, instagramers, facebookers and so on. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, La Redoute, Prozis, L'Oreal, TAP, Phone House, Sport Zone, Wells, Continente, etc.
+Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: Bloggers, Vloggers and Social Media Influencers. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, La Redoute, Prozis, L'Oreal, TAP, Phone House, Sport Zone, Wells, Continente, etc.
 
 ## **Who you are** ##
 

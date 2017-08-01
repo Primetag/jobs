@@ -9,7 +9,7 @@ social_media_message: "Primetag is looking for a Software Engineer!"
 
 ## **Who we are** ##
 
-Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: bloggers, youtubers, instagramers, facebookers and so on. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, La Redoute, Prozis, L'Oreal, TAP, Phone House, Sport Zone, Wells, Continente, etc.
+Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: Bloggers, Vloggers and Social Media Influencers. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, La Redoute, Prozis, L'Oreal, TAP, Phone House, Sport Zone, Wells, Continente, etc.
 
 ## **Who you are** ##
 
@@ -27,7 +27,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * 2+ years working with Python
 * Easily uses Git
 * Experience in web developing
-* It's a plus if you're familiar with any of these: Django, Nginx, REST, Azure, Docker, Databases, SCRUM, Git flow
+* It's a plus if you're familiar with some of these: Django, REST, Azure, Docker, Databases, SCRUM, Git flow
 
 ## **Responsabilities** ##
 
