@@ -13,6 +13,16 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+		<p class="text-uppercase">{{ post.categories }}<p>
+		
+		{% if post.location %}
+				<i class="fa fa-map-marker"></i> {{ post.location }}<br>
+		{% endif %}
+		{% if post.tags %}
+				{% for tag in post.tags %}
+					<span class="label label-warning">{{ tag }}</span>
+				{% endfor %}
+		{% endif %}
         <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
         <p>{{ post.description }}</p>
       </li>
