@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOps Engineer"
-description: "Design, grow and maintain infrastructure; Automate development and creation processes; Ensure scalability and resilience of micro-service architecture; Assist backend logic"
+description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
 date:   2017-08-01 13:38:00
 categories: engineering
 location: Lisbon

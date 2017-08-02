@@ -29,8 +29,8 @@ layout: default
             {% endif %}
           </div>
 
-          <p class="job-description">{{ post.description }}</p>
-            {% endfor %}
+          <p class="job-description">{{ post.description | replace:'|','<span class="text-pipe" />' }}</p>
+	{% endfor %}
         </div>
       </li>
   </ul>

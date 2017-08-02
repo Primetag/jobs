@@ -178,8 +178,8 @@
          left: 0;
          right: 0;
          top: 100%;
-         width: 8px;
-         height: 8px;
+         width: 50px;
+         height: 1px;
          background-color: $light-gray;
          border-radius: 4px;
          margin: auto;
@@ -188,6 +188,7 @@
    }
    .post-wrapper {
       padding: 0 8px;
+	  border-left: 1px solid $dark-gray;
    }
    .post-meta {
       display: inline-block;
@@ -228,6 +229,16 @@
       font-size: 16px;
       line-height: 26px;
       color: $black;
+	  .text-pipe:before{
+		content: "";
+         display: inline-block;
+         vertical-align: 2px;
+         width: 4px;
+         height: 4px;
+         border-radius: 2px;
+         background-color: $dark-gray;
+         margin: 0 8px;
+	  }
    }
 }
 
@@ -247,6 +258,11 @@
    @include media-query($on-laptop) {
       font-size: 36px;
    }
+   color: $blue;
+   display: inline-block;
+   margin-bottom: 8px;
+   margin-top: 20px;
+								
 }
 
 .post-content {
@@ -290,7 +306,21 @@
 }
 
 .post-meta {
-   margin-bottom: 8px;
+      display: inline-block;
+      font-size: 12px;
+      color: $dark-gray;
+      margin-bottom: 0;
+      vertical-align: 3px;
+      &:before {
+         content: "";
+         display: inline-block;
+         vertical-align: 2px;
+         width: 4px;
+         height: 4px;
+         border-radius: 2px;
+         background-color: $dark-gray;
+         margin: 0 8px;
+      }
 }
 
 .location-icon {
@@ -337,4 +367,8 @@
       color: $blue;
       font-size: 14px;
    }
+}
+
+.vertical-line {
+  border-left: 3px solid #ff0000;
 }

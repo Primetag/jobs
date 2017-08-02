@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Software Engineer"
-description: "We're looking for a software engineer eager to work in a startup environment with a global scale ambition. This is not a developer position, it's an engineering position. This means it requires the ambition to pursue new technologies and processes and be able to keep up with an already highly capable tech team, in order to grow our competitive edge."
+description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
 date:   2017-07-28 13:10:54
 categories: engineering
 location: Lisbon
