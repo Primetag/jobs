@@ -6,9 +6,13 @@
 
 .site-header {
    border-top: 5px solid $blue;
-   border-bottom: 1px solid $gray;
    min-height: 60px; // Positioning context for the mobile navigation icon
-   position: relative;
+   position: fixed;
+   left: 0;
+   width: 100%;
+   background-color: white;
+   z-index: 1;
+   box-shadow: 0 5px 6px 0 transparentize($light-black, 0.93), 0 2px 4px 0 transparentize($light-black, 0.93);
 }
 
 .site-title {
@@ -23,6 +27,9 @@
    font-weight: 600;
    text-align: center;
    margin: auto;
+   @media #{$mobile-query} {
+      font-size: 22px;
+   }
 }
 
 .site-nav {
@@ -157,6 +164,7 @@
 
 .page-content {
    padding: $spacing-unit 0;
+   padding-top: 90px;
 }
 
 .page-heading {
@@ -169,8 +177,8 @@
    .post {
       position: relative;
       padding: 50px 0;
-      &:first-of-type{
-          padding-top: 16px;
+      &:first-of-type {
+         padding-top: 16px;
       }
       &:not(:last-of-type):after {
          content: "";
@@ -185,10 +193,6 @@
          margin: auto;
          margin-top: -4px;
       }
-   }
-   .post-wrapper {
-      padding: 0 8px;
-	  border-left: 1px solid $dark-gray;
    }
    .post-meta {
       display: inline-block;
@@ -228,9 +232,9 @@
       margin-bottom: 0;
       font-size: 16px;
       line-height: 26px;
-      color: $black;
-	  .text-pipe:before{
-		content: "";
+      color: $light-black;
+      .text-pipe:before {
+         content: "";
          display: inline-block;
          vertical-align: 2px;
          width: 4px;
@@ -238,7 +242,7 @@
          border-radius: 2px;
          background-color: $dark-gray;
          margin: 0 8px;
-	  }
+      }
    }
 }
 
@@ -262,15 +266,18 @@
    display: inline-block;
    margin-bottom: 8px;
    margin-top: 20px;
-								
 }
 
 .post-content {
    margin-bottom: $spacing-unit;
    h2 {
+      margin-top: 60px;
       font-size: 32px;
       @include media-query($on-laptop) {
          font-size: 28px;
+      }
+      strong {
+         font-weight: 400;
       }
    }
    h3 {
@@ -283,6 +290,23 @@
       font-size: 20px;
       @include media-query($on-laptop) {
          font-size: 18px;
+      }
+   }
+   ul {
+      li {
+         color: $light-black;
+      }
+   }
+   p {
+      color: $light-black;
+      img {
+         width: 100%;
+         margin-top: 30px;
+         border-radius: 3px;
+         box-shadow: 0 5px 6px 0 transparentize($light-black, 0.93), 0 2px 4px 0 transparentize($light-black, 0.93);
+      }
+      a {
+         color: $blue;
       }
    }
 }
@@ -299,6 +323,26 @@
       top: 17px;
       height: 22px;
    }
+   a {
+      display: block;
+      @media #{$mobile-query} {
+         display: none;
+      }
+      &.mobile {
+         display: none;
+         @media #{$mobile-query} {
+            display: block;
+         }
+         img {
+            top: 14px;
+            height: 17px;
+         }
+      }
+   }
+}
+
+.site-nav {
+   display: none;
 }
 
 .home h2 {
@@ -306,21 +350,21 @@
 }
 
 .post-meta {
+   display: inline-block;
+   font-size: 12px;
+   color: $dark-gray;
+   margin-bottom: 0;
+   vertical-align: 3px;
+   &:before {
+      content: "";
       display: inline-block;
-      font-size: 12px;
-      color: $dark-gray;
-      margin-bottom: 0;
-      vertical-align: 3px;
-      &:before {
-         content: "";
-         display: inline-block;
-         vertical-align: 2px;
-         width: 4px;
-         height: 4px;
-         border-radius: 2px;
-         background-color: $dark-gray;
-         margin: 0 8px;
-      }
+      vertical-align: 2px;
+      width: 4px;
+      height: 4px;
+      border-radius: 2px;
+      background-color: $dark-gray;
+      margin: 0 8px;
+   }
 }
 
 .location-icon {
@@ -342,6 +386,7 @@
 }
 
 .post-tags {
+   padding: 0 8px;
    .job-position {
       text-transform: uppercase;
       font-size: 13px;
@@ -370,5 +415,11 @@
 }
 
 .vertical-line {
-  border-left: 3px solid #ff0000;
+   border-left: 3px solid #ff0000;
+}
+
+.lp-icon {
+   position: fixed;
+   opacity: 0.02;
+   z-index: -1;
 }

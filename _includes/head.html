@@ -11,38 +11,42 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <script
+  src="http://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
 
   <style>
     @font-face {
         font-family: Gilroy;
-        src: url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Medium.eot"}}');
-        src: url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Medium.eot?#iefix"}}') format('embedded-opentype'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Medium.woff"}}') format('woff'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Medium.woff2"}}') format('woff2'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Medium.ttf"}}') format('truetype'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Medium.svg#Gilroy-Medium"}}') format('svg');
+        src: url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Medium.eot"}}');
+        src: url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Medium.eot?#iefix"}}') format('embedded-opentype'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Medium.woff"}}') format('woff'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Medium.woff2"}}') format('woff2'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Medium.ttf"}}') format('truetype'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Medium.svg#Gilroy-Medium"}}') format('svg');
         font-weight: 500;
         font-style: normal;
     }
     @font-face {
         font-family: Gilroy;
-        src: url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Bold.eot"}}');
-        src: url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Bold.eot?#iefix"}}') format('embedded-opentype'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Bold.woff"}}') format('woff'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Bold.woff2"}}') format('woff2'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Bold.ttf"}}') format('truetype'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-Bold.svg#Gilroy-Bold"}}') format('svg');
+        src: url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Bold.eot"}}');
+        src: url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Bold.eot?#iefix"}}') format('embedded-opentype'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Bold.woff"}}') format('woff'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Bold.woff2"}}') format('woff2'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Bold.ttf"}}') format('truetype'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-Bold.svg#Gilroy-Bold"}}') format('svg');
         font-weight: bold;
         font-style: normal;
     }
     @font-face {
         font-family: Gilroy;
-        src: url('{{ site.baseurl }}{{"assets/fonts/Gilroy-SemiBold.eot"}}');
-        src: url('{{ site.baseurl }}{{"assets/fonts/Gilroy-SemiBold.eot?#iefix"}}') format('embedded-opentype'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-SemiBold.woff"}}') format('woff'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-SemiBold.woff2"}}') format('woff2'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-SemiBold.ttf"}}') format('truetype'),
-            url('{{ site.baseurl }}{{"assets/fonts/Gilroy-SemiBold.svg#Gilroy-SemiBold"}}') format('svg');
+        src: url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-SemiBold.eot"}}');
+        src: url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-SemiBold.eot?#iefix"}}') format('embedded-opentype'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-SemiBold.woff"}}') format('woff'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-SemiBold.woff2"}}') format('woff2'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-SemiBold.ttf"}}') format('truetype'),
+            url('{{ site.baseurl }}{{"/assets/fonts/Gilroy-SemiBold.svg#Gilroy-SemiBold"}}') format('svg');
         font-weight: 600;
         font-style: normal;
     }

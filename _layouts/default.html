@@ -5,6 +5,54 @@
 
   <body>
 
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-circle.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-cross.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-diamond.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-family.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-home.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-it.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-plus.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-sports.svg" }}" alt="">
+    <img class="lp-icon" src="{{ site.baseurl }}{{ "/assets/icons/icon-brand-square.svg" }}" alt="">
+
+
+    <script>
+      var dimensions = {width: $(window).width(), height: $(window).height()},
+        icons = $(".lp-icon"),
+        minAllowedDistance = $(window).width() / 4;
+
+      function calcDistance(x1, y1, x2, y2) {
+        return Math.sqrt(Math.pow(x1 - x2, 2) + Math.pow(y1 - y2, 2));
+      }
+
+      function getNewPosition(icon) {
+        var position = {
+            x: Math.random() * dimensions.width,
+            y: Math.random() * dimensions.height
+        }
+        icons.each(function (i, icon2) {
+            //If not the same icon, calc distance between icons
+            if (icon !== icon2) {
+                if (calcDistance(parseInt($(icon2).css("left"), 10), parseInt($(icon2).css("top"), 10), position.x, position.y) < minAllowedDistance) {
+                    position = getNewPosition(icon);
+                }
+            }
+        });
+        return position;
+      }
+      
+      icons.each(function (i, icon) {
+          var position = getNewPosition(icon);
+          $(icon).css("left", position.x);
+          $(icon).css("top", position.y);
+          icon.accelerationFactor = 0.1 + Math.random() * 0.3;
+          //Change icon width according to it's acceleration factor
+          //Bigger acceleration is closer, so it's bigger
+          $(icon).width(25 * icon.accelerationFactor * 10);
+          icon.initialTop = position.y;
+      });
+    </script>
+
     {% include header.html %}
 
     <div class="page-content">
