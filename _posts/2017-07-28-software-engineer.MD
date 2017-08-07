@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Software Engineer"
+title:  "Software Engineer - Python/Django"
 description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
 date:   2017-08-01 13:38:00
 categories: engineering
