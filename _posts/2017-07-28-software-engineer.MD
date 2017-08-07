@@ -2,7 +2,7 @@
 layout: post
 title:  "Software Engineer"
 description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
-date:   2017-07-28 13:10:54
+date:   2017-08-01 13:38:00
 categories: engineering
 location: Lisbon
 tags: fulltime

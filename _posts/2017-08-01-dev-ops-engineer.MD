@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps Engineer"
 description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
-date:   2017-08-01 13:38:00
+date:   2017-07-28 13:10:54
 categories: engineering
 location: Lisbon
 tags: fulltime
