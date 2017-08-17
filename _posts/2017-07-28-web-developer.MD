@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Junior Frontend Web Developer"
+title:  "Frontend Web Developer"
 description: "Create web interfaces with the latest technologies|Work with backend engineers and web designers, bridging concepts with functionality|From structural organization to animations, UI and UX|AngularJS, Yarn, LESS, Gulp, Grunt, Python"
 date:   2017-07-28 13:10:54
 categories: product
