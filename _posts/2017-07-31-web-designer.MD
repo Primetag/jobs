@@ -43,7 +43,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Offer and perks** ##
 
-* Competitive compensation, from 1400€ up to 2050€ base salary, depending on your experience, skill set and performance.
+* Competitive compensation, from 1400€ up to 2050€ gross salary, depending on your experience, skill set and performance.
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Office in a penthouse by the beach, in a quiet area
 * Amazing ocean panoramic view, with loads of natural light
