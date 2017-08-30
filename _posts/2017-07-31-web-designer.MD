@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Web Designer"
+title:  "Product Designer"
 description: "Create deeply architectured user interfaces|Give concepts body and soul|Sketch, prototype, design, and validate UI/UX|Create tests and studies to ensure usability|Photoshop, Illustrator, Sketch, RAIL model"
 date:   2017-07-31 18:01:00
 categories: product
 location: Lisbon
 tags: fulltime
-social_media_message: "Primetag is looking for a Web Designer!"
+social_media_message: "Primetag is looking for a Product Designer!"
 ---
 
 ## **Who we are** ##
@@ -15,7 +15,7 @@ Primetag is a young, ambitious and growing tech company, working towards fundame
 
 ## **Who you are** ##
 
-We're looking for a web designer eager to work in a startup environment with a global scale ambition.
+We're looking for a product designer eager to work in a startup environment with a global scale ambition.
 You should be communicative, pro-active, independent, responsible and motivated by challenge.
 Our culture is about sharing ideas, helping each other and feeling part of the project. You should feel attracted by these values.
 You're also someone who loves to learn and is constantly eager to improve things.
@@ -33,7 +33,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Responsabilities** ##
 
-* As a Web designer you will be creating deeply architectured user interfaces
+* As a Product designer you will be creating deeply architectured user interfaces
 * You'll have to sketch, prototype, design, and validate the interfaces, while minding requirements
 * It's a given that animations, user interaction and experience are intertwined in your work
 * You'll work together with web developers, engineers and marketers, giving concepts a body and soul
