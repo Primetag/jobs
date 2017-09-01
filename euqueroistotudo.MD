@@ -5,7 +5,7 @@ description: "bla bla bla bla bla bla bla bla"
 date:   2017-09-01 13:38:00
 social_media_message: "Tomá lá 500€ em gadgets!"
 published: true
-permalink: /euqueroistotudo/
+permalink: /euqueroistotudo
 ---
 
 A Primetag está à procura dos melhores candidatos para posiçoes de [engenharia, desenvolvimento web e design](http://jobs.primetag.net). Conheces alguém à altura do desafio?
