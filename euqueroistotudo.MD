@@ -8,6 +8,9 @@ published: true
 permalink: /euqueroistotudo/
 ---
 
+<meta property="og:image" content="/assets/images/jobs-campaign.png" />
+<meta property="og:title" content="Eu quero isto tudo!" />
+
 A Primetag está a recrutar os melhores candidatos para posiçoes de [engenharia, desenvolvimento web e design](http://jobs.primetag.net). Ajuda-nos a encontrá-los e ganha sem sorteio **500€ em gadgets e tecnologia** por cada candidato contratado.
 
 <br/>
