@@ -7,6 +7,7 @@ categories: engineering
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a DevOps Engineer!"
+published: true
 ---
 
 ## **Who we are** ##

@@ -7,6 +7,7 @@ categories: product
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a Product Designer!"
+published: true
 ---
 
 ## **Who we are** ##
