@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "EU QUERO ISTO TUDO !"
+title:  "<strong>EU QUERO ISTO TUDO !</strong>"
 description: "bla bla bla bla bla bla bla bla"
 date:   2017-09-01 13:38:00
 social_media_message: "Tomá lá 500€ em gadgets!"
@@ -8,13 +8,13 @@ published: true
 permalink: /euqueroistotudo/
 ---
 
-A Primetag está a recrutar os melhores candidatos para posiçoes de [engenharia, desenvolvimento web e design](http://jobs.primetag.net).
+A Primetag está a recrutar os melhores candidatos para posiçoes de [engenharia, desenvolvimento web e design](http://jobs.primetag.net). Ajuda-nos a encontrá-los e ganha sem sorteio **500€ em gadgets e tecnologia** por cada candidato contratado.
 
 <br/>
 
 ### Conheces alguém à altura do desafio? ###
 
-Então segue as instruções para ganhar **500€ em gadgets e tecnologia**:
+Então segue as instruções para ganhar:
 
 1. Partilha esta página no Facebook
 2. Encontra potenciais candidatos para as posições listadas em [jobs.primetag.net](http://jobs.primetag.net)
