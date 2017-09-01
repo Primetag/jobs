@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "EU QUERO ISTO TUDO"
+title:  "EU QUERO ISTO TUDO !"
 description: "bla bla bla bla bla bla bla bla"
 date:   2017-09-01 13:38:00
 social_media_message: "Tomá lá 500€ em gadgets!"
@@ -12,9 +12,9 @@ A Primetag está à procura dos melhores candidatos para posiçoes de [engenhari
 
 Segue as instruções para ganhar:
 
-1. Partilhar esta página no Facebook
-2. Encontrar potenciais candidatos para as posições listadas em [jobs.primetag.net](http://jobs.primetag.net)
-3. Os candidatos enviam e-mail para jobs@primetag.net, e mencionam-te
+1. Partilha esta página no Facebook
+2. Encontra potenciais candidatos para as posições listadas em [jobs.primetag.net](http://jobs.primetag.net)
+3. Os candidatos enviam e-mail para _jobs@primetag.net_, e mencionam-te
 4. Se o candidato for contratado, ganhas imediatamente todos os produtos abaixo
 
 <div class="image-grid">
@@ -26,11 +26,11 @@ Segue as instruções para ganhar:
       </figcaption>
     </figure>
   </a>
-  <a href="https://www.fnac.pt/Pulseira-de-Atividade-Xiaomi-Mi-Band-2-Preto-Electronica-Desporto-e-Saude-Pulseira-Monitor-Atividade/a1202496#" target="_blank">
+    <a href="https://www.phonehouse.pt/pt/smartphone-huawei-y5-ii-branco/?pid=720&id=431&cat=423&pc=1" target="_blank">
     <figure>
-      <img src="https://static.fnac-static.com/multimedia/Images/PT/NR/e5/16/12/1185509/1540-1.jpg" alt="">
+      <img src="https://phonehouse.eurocdn.net/temp/1473325001_5c1e524c418fa2e77370e17ac447fbc1.jpg" alt="">
       <figcaption>
-        Pulseira de Atividade Mi Band 2 (50€)
+        Smartphone Huawei Y5 II (130€)
       </figcaption>
     </figure>
   </a>
@@ -42,27 +42,27 @@ Segue as instruções para ganhar:
       </figcaption>
     </figure>
   </a>
+  <a href="https://www.fnac.pt/Pulseira-de-Atividade-Xiaomi-Mi-Band-2-Preto-Electronica-Desporto-e-Saude-Pulseira-Monitor-Atividade/a1202496#" target="_blank">
+    <figure>
+      <img src="https://static.fnac-static.com/multimedia/Images/PT/NR/e5/16/12/1185509/1540-1.jpg" alt="">
+      <figcaption>
+        Pulseira de Atividade Mi Band 2 (50€)
+      </figcaption>
+    </figure>
+  </a>
     <a href="https://www.fnac.pt/Nintendo-Classic-Mini-Consola-Super-Nintendo-Entertainment-System-SNES-Consola-Consola/a1257579#" target="_blank">
     <figure>
       <img src="https://static.fnac-static.com/multimedia/Images/PT/NR/6d/ea/12/1239661/1540-1.jpg" alt="">
       <figcaption>
-        Nintendo Classic Mini (90€)
+        Nova Nintendo Classic Mini (90€)
       </figcaption>
     </figure>
   </a>
-  <a href="https://www.fnac.pt/PNJ-Action-Cam-PANO-DL-360-Wi-Fi-Camara-de-Video-Camara-Video/a988609#" target="_blank">
+  <a href="https://www.phonehouse.pt/pt/action-camera-multisport-prixton-dv650-wi-fi/?pid=868&id=743&cat=733&pc=1" target="_blank">
     <figure>
-      <img src="https://static.fnac-static.com/multimedia/Images/PT/NR/3c/ed/0e/978236/1541-1/tsp20161025122151/PNJ-Action-Cam-PANO-DL-360-Wi-Fi.jpg" alt="">
+      <img src="https://phonehouse.eurocdn.net/temp/1490119968_e48462aebdaef675839f8adfcb7dd862.jpg" alt="">
       <figcaption>
-        Action Cam 360 WiFi (50€)
-      </figcaption>
-    </figure>
-  </a>
-  <a href="https://www.fnac.pt/Kobo-Aura-2-Preto-Tablet-eBook/a985932" target="_blank">
-    <figure>
-      <img src="https://static.fnac-static.com/multimedia/Images/PT/NR/eb/e3/0e/975851/1540-1/tsp20160929124209/Kobo-Aura-2-Preto.jpg" alt="">
-      <figcaption>
-        Leitor de E-books Kobo Aura 2 (120€)
+        Action Cam com WiFi (70€)
       </figcaption>
     </figure>
   </a>
