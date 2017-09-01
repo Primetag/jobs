@@ -8,9 +8,13 @@ published: true
 permalink: /euqueroistotudo/
 ---
 
-A Primetag está à procura dos melhores candidatos para posiçoes de [engenharia, desenvolvimento web e design](http://jobs.primetag.net). 
+A Primetag está a recrutar os melhores candidatos para posiçoes de [engenharia, desenvolvimento web e design](http://jobs.primetag.net).
 
-Conheces alguém à altura do desafio? Então segue as instruções para ganhar 500€ em gadgets e tecnologia:
+<br/>
+
+### Conheces alguém à altura do desafio? ###
+
+Então segue as instruções para ganhar **500€ em gadgets e tecnologia**:
 
 1. Partilha esta página no Facebook
 2. Encontra potenciais candidatos para as posições listadas em [jobs.primetag.net](http://jobs.primetag.net)
