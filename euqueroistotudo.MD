@@ -81,11 +81,11 @@ Então segue as instruções para ganhar:
       </figcaption>
     </figure>
   </a>  
-    <a href="https://www.fnac.pt/Maxtor-Disco-Externo-M3-Portable-1TB-2-5-Preto-Disco-Rigido-Disco-Rigido-Externo-2-5/a965686#" target="_blank">
+    <a href="https://www.fnac.pt/mp10315782/Smartwatch-Mykronoz-Zecircle-2-Cinza?omnsearchpos=109" target="_blank">
     <figure>
-      <img src="https://static.fnac-static.com/multimedia/Images/PT/NR/cc/97/0e/956364/1540-1/tsp20160812182019/Maxtor-Disco-Externo-M3-Portable-1TB-2-5-Preto.jpg" alt="">
+      <img src="https://static.fnac-static.com/multimedia/Images/PT/MC/06/68/9d/10315782/1507-1/tsp20170612173533/Smartwatch-Mykronoz-Zecircle-2-Cinza.jpg" alt="">
       <figcaption>
-        Disco Externo de 1TB (65€)
+       Smartwatch Mykronoz Zecircle 2 (66€)
       </figcaption>
     </figure>
   </a>
