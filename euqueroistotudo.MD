@@ -20,7 +20,7 @@ A Primetag está a recrutar os melhores candidatos para posiçoes de [engenharia
 Então segue as instruções para ganhar:
 
 1. Partilha esta página no Facebook
-2. Encontra potenciais candidatos para as posições listadas em [jobs.primetag.net](http://jobs.primetag.net)
+2. Fala com potenciais candidatos para as posições listadas em [jobs.primetag.net](http://jobs.primetag.net)
 3. Os candidatos enviam e-mail para _jobs@primetag.net_, e mencionam-te
 4. Se o candidato for contratado, ganhas imediatamente todos os produtos abaixo
 
