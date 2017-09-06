@@ -93,7 +93,9 @@ Então segue as instruções para ganhar:
 
 ----
 
-
 <br/>
-Pronto para ganhar gadgets? Partilha:
+<br/>
+
+### Pronto para ganhar gadgets? Partilha: ###
+
 <a target="_blank" href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http://jobs.primetag.net/euqueroistotudo"><img src="http://www.programmingscripts.com/wp-content/uploads/2015/12/a145.jpg" style="width: 75px"></a>
