@@ -29,7 +29,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Understand the meaning of scalable development
 * Easily uses Git
 * We support IE6, everyone matters. Just kidding, we don't
-* It's a plus if you're familiar with any of these: AngularJS, Yarn, LESS, Gulp, Grunt, TDD, REST
+* It's a plus if you're familiar with any of these: AngularJS, React, Yarn, LESS, Gulp, Grunt, TDD, REST
 
 
 ## **Responsabilities** ##
