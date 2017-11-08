@@ -10,7 +10,7 @@ social_media_message: "Primetag is looking for an Office Manager!"
 published: true
 ---
 
-![](http://tests.primetag.net/officemanager.jpg){:width="70%" .center-image}
+![](http://tests.primetag.net/officeman.jpg){:width="70%" .center-image}
 
 ## **Who we are** ##
 
