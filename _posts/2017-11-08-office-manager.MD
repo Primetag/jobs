@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Office Manager"
-description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
+description: "We’re looking for an office manager eager to work in a startup environment with a global scale ambition."
 date:   2017-11-08 17:30:00
 categories: administration
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for an Office Manager!"
-published: false
+published: true
 ---
 
 ![](http://tests.primetag.net/officemanager.jpg){:width="70%" .center-image}
