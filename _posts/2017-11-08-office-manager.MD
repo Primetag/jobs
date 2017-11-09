@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Office Manager"
-description: "We’re looking for an office manager eager to work in a startup environment with a global scale ambition."
+description: "Organize and coordinate administration duties and office procedures. Create and maintain a pleasant work environment, ensuring high levels of organizational effectiveness, communication and safety."
 date:   2017-11-08 17:30:00
 categories: administration
 location: Lisbon
