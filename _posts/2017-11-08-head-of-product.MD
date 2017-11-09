@@ -23,33 +23,34 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Requirements** ##
 
-* A computer-related engineering degree
-* Highly developed logical thinking
-* Ability to engage in discussions of a wide range of engineering topics (DBs, Networking, Architecture, Scalability, Resilience)
-* 5+ years working with Unix
-* Experience with Docker, Container orchestration, CI/CD, Database configuration
-* Familiar with micro-service arquitectures
-* Able to embrace that learning is part of the job
-* It's a plus if you're familiar with some of these: Azure, Jenkins, Python, Django, Databases, SCRUM
+* A degree in Marketing or Design
+* 3+ years experience managing product development
+* 3+ years experience in marketing of tech projects
+* Broad understanding of product analytics
+* Understand data-guided lean development
+* Experience in requirement extraction from stakeholders
+* Experience with product design guidance
+* Ability to work across teams is essential
+* Have people management skills, and an entrepreneurial mindset
 
 ## **Responsabilities** ##
 
-* As a DevOps engineer you will grow and maintain our infrastructure, while automating development and creation processes
-* Ensure the scalability and resilience of a micro-service architecture
-* Deal with the automation of code integration and deployment processes, as well as strategies for monitoring and alerting
-* Continuously design the overall architecture of our infrastructure
-* Assist with the backend logic when needed
-* You'll be the project owner of several projects, meaning you'll be responsible for actively ensuring their continuation
-* We expect high quality levels in your work and results. Expect a high level of independence and responsability
-* You'll have to deal with critical situations calmly and be able to make cirurgical interventions
+* Devise the product roadmap based on analytics, business strategy, and marketing efforts
+* Prioritize the product backlog to meet the needs of the engineering, business and network teams
+* Develop product requirements for new features from stakeholders
+* Understand the identity of the company and employ it through out product planning
+* Guide the product design, minding UI/UX
+* Plan, along with the marketing team, the deployment of new functionality
+* Facilitate good communication between founders, other executives, and engineering
 
 ## **Offer and perks** ##
 
 * Competitive compensation, from 1400€ up to 2600€ gross salary, depending on your experience, skill set and performance.
-* Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
+* Health insurance
 * Office in a penthouse by the beach, in a quiet area
+* Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Amazing ocean panoramic view, with loads of natural light
-* Swimming-pool, Sauna, Table tennis, Playstation
+* Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment
 
 ![](http://tests.primetag.net/escritorio.jpg){:width="70%" .center-image}
 
