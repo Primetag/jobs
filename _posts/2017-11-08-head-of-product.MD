@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Head of product"
-description: "Devise product roadmap, requirements and prioritize backlog|Guide the design team|Plan deployments along with marketing|Facilitate product communication between teams|Implement analytical strategies"
+description: "Guide product development|Devise roadmap, requirements and prioritize backlog|Lead the design team|Plan deployments along with marketing|Facilitate product communication between teams|Implement analytical strategies"
 date:   2017-11-09 13:10:54
 categories: product
 location: Lisbon
