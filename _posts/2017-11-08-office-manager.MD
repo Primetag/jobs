@@ -61,7 +61,7 @@ You will be responsible to organize and coordinate administration duties and off
 * Amazing ocean panoramic view, with loads of natural light
 * Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment
 
-![](http://tests.primetag.net/escritorio.jpg){:width="70%" .center-image}
+![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
 
 ## **How to apply** ##
 
