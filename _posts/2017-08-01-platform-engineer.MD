@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "DevOps Engineer"
+title:  "Platform Engineer"
 description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
 date:   2017-07-28 13:10:54
 categories: engineering
 location: Lisbon
 tags: fulltime
-social_media_message: "Primetag is looking for a DevOps Engineer!"
+social_media_message: "Primetag is looking for a Platform Engineer!"
 published: true
 ---
 
@@ -16,7 +16,7 @@ Primetag is a young, ambitious and growing tech company, working towards fundame
 
 ## **Who you are** ##
 
-We're looking for a devops engineer eager to work in a startup environment with a global scale ambition.
+We're looking for a platform engineer eager to work in a startup environment with a global scale ambition.
 You should be communicative, pro-active, independent, responsible and motivated by challenge.
 Our culture is about sharing ideas, helping each other and feeling part of the project. You should feel attracted by these values.
 You're also someone who loves to learn and is constantly eager to improve things.
@@ -34,7 +34,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Responsabilities** ##
 
-* As a DevOps engineer you will grow and maintain our infrastructure, while automating development and creation processes
+* As a Platform engineer you will grow and maintain our infrastructure, while automating development and creation processes
 * Ensure the scalability and resilience of a micro-service architecture
 * Deal with the automation of code integration and deployment processes, as well as strategies for monitoring and alerting
 * Continuously design the overall architecture of our infrastructure
