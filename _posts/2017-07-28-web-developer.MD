@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frontend Web Developer"
+title:  "Frontend Developer"
 description: "Create web interfaces with the latest technologies|Work with backend engineers and web designers, bridging concepts with functionality|From structural organization to animations, UI and UX|AngularJS, Yarn, LESS, Gulp, Grunt, Python"
 date:   2017-07-28 13:10:54
 categories: product
@@ -29,7 +29,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Understand the meaning of scalable development
 * Easily uses Git
 * We support IE6, everyone matters. Just kidding, we don't
-* It's a plus if you're familiar with any of these: AngularJS, Yarn, LESS, Gulp, Grunt, TDD, REST
+* It's a plus if you're familiar with any of these: AngularJS, React, Yarn, LESS, Gulp, Grunt, TDD, REST
 
 
 ## **Responsabilities** ##
@@ -46,10 +46,11 @@ You're also someone who loves to learn and is constantly eager to improve things
 ## **Offer and perks** ##
 
 * Competitive compensation, from 1400€ up to 2050€ gross salary, depending on your experience, skill set and performance.
+* Health insurance
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Office in a penthouse by the beach, in a quiet area
 * Amazing ocean panoramic view, with loads of natural light
-* Swimming-pool, Sauna, Table tennis, Playstation
+* Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment
 
 ![](http://tests.primetag.net/escritorio.jpg){:width="70%" .center-image}
 
