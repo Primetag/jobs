@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Head of product"
-description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
+description: "Devise product roadmap, requirements and prioritize backlog|Guide the design team|Plan deployments along with marketing|Facilitate product communication between teams|Implement analytical strategies"
 date:   2017-11-09 13:10:54
 categories: product
 location: Lisbon
@@ -24,7 +24,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 ## **Requirements** ##
 
 * A degree in Marketing or Design
-* 3+ years experience managing product development
+* 3+ years experiece managing product development
 * 3+ years working in the marketing sector of tech projects
 * Broad understanding of product analytics
 * Understand data-guided lean development
