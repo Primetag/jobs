@@ -36,9 +36,9 @@ You're also someone who loves to learn and is constantly eager to improve things
 ## **Responsabilities** ##
 
 * Devise the product roadmap based on analytics, business strategy, and marketing efforts
-* Prioritize the product backlog to meet the needs of the engineering, business and network teams
+* Prioritize the product backlog to meet the needs of the engineering, client and network teams
 * Develop product requirements for new features from stakeholders
-* Understand the identity of the company and employ it through out product planning
+* Understand the identity of the company and employ it throughout product planning
 * Guide the product design, minding UI/UX
 * Plan, along with the marketing team, the deployment of new functionality
 * Facilitate good communication between founders, other executives, and engineering
