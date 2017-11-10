@@ -27,12 +27,13 @@ You will be responsible to organize and coordinate administration duties and off
 
 * Excellent time management skills and ability to multi-task and prioritize work
 * Attention to detail and problem solving skills
+* Written and spoken english language
 * Strong organizational and planning skills in a fast-paced environment
 * Knowledge of office administrator responsibilities, systems and procedures
 * Proficiency in MS Office (MS Excel and MS Word, in particular)
 * Excellent written and verbal communication skills
 * A creative mind with an ability to suggest improvements
-* High School degree; additional qualification as an Administrative assistant or Secretary will be a plus
+* Additional qualification as an Administrative assistant or Secretary will be a plus
 * Not afraid of out-of-the-box ideas and suggestions
 
 ## **Responsabilities** ##
