@@ -7,7 +7,7 @@ categories: product
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a Head of product!"
-published: false
+published: true
 ---
 
 ## **Who we are** ##
@@ -16,8 +16,8 @@ Primetag is a young, ambitious and growing tech company, working towards fundame
 
 ## **Who you are** ##
 
-We're looking for a devops engineer eager to work in a startup environment with a global scale ambition.
-You should be communicative, pro-active, independent, responsible and motivated by challenge.
+We're looking for a head of product (CPO) eager to work in a startup environment with a global scale ambition.
+You should have leadership skills and an entrepreneurial mindset, be highly pro-active, organized, responsible and motivated by challenge. You're someone that easily mobilizes cross-functional teams.
 Our culture is about sharing ideas, helping each other and feeling part of the project. You should feel attracted by these values.
 You're also someone who loves to learn and is constantly eager to improve things.
 
@@ -25,13 +25,13 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 * A degree in Marketing or Design
 * 3+ years experience managing product development
-* 3+ years experience in marketing of tech projects
+* 3+ years working in the marketing sector of tech projects
 * Broad understanding of product analytics
 * Understand data-guided lean development
 * Experience in requirement extraction from stakeholders
 * Experience with product design guidance
 * Ability to work across teams is essential
-* Have people management skills, and an entrepreneurial mindset
+* Have people management and communication skills
 
 ## **Responsabilities** ##
 
@@ -45,7 +45,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Offer and perks** ##
 
-* Competitive compensation, from 1400€ up to 2600€ gross salary, depending on your experience, skill set and performance.
+* Competitive compensation, depending on your experience, skill set and performance.
 * Health insurance
 * Office in a penthouse by the beach, in a quiet area
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
