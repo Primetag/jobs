@@ -33,7 +33,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Ability to work across teams is essential
 * Have people management and communication skills
 
-## **Responsabilities** ##
+## **Responsibilities** ##
 
 * Devise the product roadmap based on analytics, business strategy, and marketing efforts
 * Prioritize the product backlog to meet the needs of the engineering, client and network teams
