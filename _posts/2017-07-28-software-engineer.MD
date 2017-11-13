@@ -32,7 +32,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Experience in web developing
 * It's a plus if you're familiar with some of these: Django, REST, Azure, Docker, Databases, SCRUM, Git flow
 
-## **Responsabilities** ##
+## **Responsibilities** ##
 
 * This is not a developer position, it's an engineering position. This means it requires the ambition to pursue new technologies and processes and be able to keep up with an already highly capable tech team, in order to grow our competitive edge
 * As an engineer you'll deal with the backend logic of several services
