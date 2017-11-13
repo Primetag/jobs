@@ -34,7 +34,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Worked with developers and stakeholders
 * It's a plus if you're familiar with any of these: Sketch, Javascript, CSS, RAIL model, Video editing, 3D modeling
 
-## **Responsabilities** ##
+## **Responsibilities** ##
 
 * As a Product designer you will be creating deeply architectured user interfaces
 * You'll have to sketch, prototype, design, and validate the interfaces, while minding requirements
