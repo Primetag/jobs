@@ -32,7 +32,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * It's a plus if you're familiar with any of these: AngularJS, React, Yarn, LESS, Gulp, Grunt, TDD, REST
 
 
-## **Responsabilities** ##
+## **Responsibilities** ##
 
 * As a frontend web developer you will be creating web interfaces with the latest technologies
 * You'll work together with backend engineers and web designers, bridging concepts with functionality
