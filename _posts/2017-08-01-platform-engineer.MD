@@ -32,7 +32,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Able to embrace that learning is part of the job
 * It's a plus if you're familiar with some of these: Azure, Jenkins, Python, Django, Databases, SCRUM
 
-## **Responsabilities** ##
+## **Responsibilities** ##
 
 * As a Platform engineer you will grow and maintain our infrastructure, while automating development and creation processes
 * Ensure the scalability and resilience of a micro-service architecture
