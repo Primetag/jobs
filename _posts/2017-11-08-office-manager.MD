@@ -54,7 +54,7 @@ You will be responsible to organize and coordinate administration duties and off
 
 ## **Offer and perks** ##
 
-* Competitive compensation, from 1100€ up to 1400€ gross salary, depending on your experience, skill set and performance.
+* Competitive compensation, from 1000€ up to 1300€ gross salary, depending on your experience, skill set and performance.
 * Health insurance
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Office in a penthouse by the beach, in a quiet area
