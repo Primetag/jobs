@@ -36,7 +36,7 @@ You will be responsible to organize and coordinate administration duties and off
 * Additional qualification as an Administrative assistant or Secretary will be a plus
 * Not afraid of out-of-the-box ideas and suggestions
 
-## **Responsabilities** ##
+## **Responsibilities** ##
 
 * Serve as the point person for office manager duties including: Maintenance; Mailing; Supplies; Equipment; Bills; Errands; Shopping
 * Schedule meetings and appointments
