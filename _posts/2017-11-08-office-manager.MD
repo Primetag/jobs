@@ -7,7 +7,7 @@ categories: administration
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for an Office Manager!"
-published: true
+published: false
 ---
 
 ![](http://tests.primetag.net/officemanager.png){:width="70%" .center-image}
