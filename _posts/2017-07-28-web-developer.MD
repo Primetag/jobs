@@ -2,7 +2,7 @@
 layout: post
 title:  "Frontend Developer"
 description: "Create web interfaces with the latest technologies|Work with backend engineers and web designers, bridging concepts with functionality|From structural organization to animations, UI and UX|AngularJS, Yarn, LESS, Gulp, Grunt, Python"
-date:   2017-07-28 13:10:54
+date:   2018-03-28 13:10:54
 categories: product
 location: Lisbon
 tags: fulltime
