@@ -2,7 +2,7 @@
 layout: post
 title:  "Head of product"
 description: "Guide product development|Devise roadmap, requirements and prioritize backlog|Lead the design team|Plan deployments along with marketing|Facilitate product communication between teams|Implement analytical strategies"
-date:   2018-01-19 13:10:54
+date:   2018-08-10 13:10:54
 categories: product
 location: Lisbon
 tags: fulltime
