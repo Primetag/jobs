@@ -2,12 +2,12 @@
 layout: post
 title:  "Software Engineer - Python/Django"
 description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
-date:   2017-08-01 13:38:00
+date:   2018-10-17 10:19:00
 categories: engineering
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a Software Engineer!"
-published: false
+published: true
 ---
 
 ## **Who we are** ##
@@ -49,9 +49,9 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Office in a penthouse by the beach, in a quiet area
 * Amazing ocean panoramic view, with loads of natural light
-* Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment
+* Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment 
 
-![](http://tests.primetag.net/escritorio.jpg){:width="70%" .center-image}
+![](http://jobs.primetag.net/assets/images/escritorio.jpg){:width="70%" .center-image}
 
 ## **How to apply** ##
 
