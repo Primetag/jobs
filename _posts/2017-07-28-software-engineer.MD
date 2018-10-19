@@ -7,8 +7,11 @@ categories: engineering
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a Software Engineer!"
+image: "https://jobs.primetag.net/assets/images/softwaredeveloper.png"
 published: true
 ---
+
+![]({{ site.url }}/assets/images/softwaredeveloper.png){:width="70%" .center-image}
 
 ## **Who we are** ##
 
