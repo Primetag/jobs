@@ -42,7 +42,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * You'll work with systems architecture, database design and optimization, communications and, of course, business logic (programming)
 * You'll be the project owner of several projects, meaning you'll be responsible for actively ensuring their continuation
 * We expect high quality levels in your work and results
-* You'll have to deal with critical situations calmly and be able to make cirurgical interventions
+* You'll have to deal with critical situations calmly and be able to make surgical interventions
 * Expect a high level of independence and responsability
 
 ## **Offer and perks** ##
