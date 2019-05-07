@@ -2,7 +2,7 @@
 layout: post
 title:  "Software Engineer - Python/Django"
 description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
-date:   2018-10-17 10:19:00
+date:   2019-05-07 10:19:00
 categories: engineering
 location: Lisbon
 tags: fulltime
