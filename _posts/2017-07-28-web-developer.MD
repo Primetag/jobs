@@ -51,7 +51,8 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 * Office in a penthouse by the beach, in a quiet area
 * Amazing ocean panoramic view, with loads of natural light
-* Swimming-pool, Playstation, Surf equipment, Snacks and Coffee
+* Large balcony where we often have lunch and make barbecues
+* Great environment, we are very careful with our hires to keep a good culture and vibe
 
 ![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
 
