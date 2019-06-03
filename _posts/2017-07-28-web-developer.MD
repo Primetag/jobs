@@ -2,17 +2,17 @@
 layout: post
 title:  "Frontend Developer"
 description: "Create web interfaces with the latest technologies|Work with backend engineers and web designers, bridging concepts with functionality|From structural organization to animations, UI and UX|AngularJS, Yarn, LESS, Gulp, Grunt, Python"
-date:   2018-03-28 13:10:54
+date:   2019-06-03 12:10:54
 categories: product
 location: Lisbon
 tags: fulltime
-social_media_message: "Primetag is looking for a Web Developer!"
-published: false
+social_media_message: "Primetag is looking for a Frontend Developer!"
+published: true
 ---
 
 ## **Who we are** ##
 
-Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: bloggers, youtubers, instagramers, facebookers and so on. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, La Redoute, Prozis, L'Oreal, TAP, Phone House, Sport Zone, Wells, Continente, etc.
+Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: instagramers, bloggers, youtubers, facebookers and so on. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, Continente, La Redoute, L'Oreal, TAP, Phone House, Sport Zone, Wells, etc.
 
 ## **Who you are** ##
 
