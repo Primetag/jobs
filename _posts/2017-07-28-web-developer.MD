@@ -7,6 +7,7 @@ categories: product
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a Frontend Developer!"
+image: "https://jobs.primetag.com/assets/images/frontender_position.png"
 published: true
 ---
 
