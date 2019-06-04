@@ -11,7 +11,7 @@ image: "https://jobs.primetag.com/assets/images/backender_position.png"
 published: true
 ---
 
-![]({{ site.url }}/assets/images/softwaredeveloper.png){:width="70%" .center-image}
+![]({{ site.url }}/assets/images//backender_position.png){:width="70%" .center-image}
 
 ## **Who we are** ##
 
