@@ -56,7 +56,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Large balcony where we often have lunch and make barbecues
 * Great environment, we are very careful with our hires to keep a good culture and vibe
 
-![](http://jobs.primetag.com/assets/images/escritorio.jpg){:width="70%" .center-image}
+![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
 
 ## **How to apply** ##
 
