@@ -11,6 +11,8 @@ image: "https://jobs.primetag.com/assets/images/frontender_position.png"
 published: true
 ---
 
+![]({{ site.url }}/assets/images//frontender_position.png){:width="70%" .center-image}
+
 ## **Who we are** ##
 
 Primetag is a young, ambitious and growing tech company, working towards fundamentally empowering the influence world. We work with the latest technologies to scale a business that is changing the way e-commerce manages and deals with today's influence channels: instagramers, bloggers, youtubers, facebookers and so on. Using engineering and innovation Primetag tackles the most profound problem hovering the advertising sector, solving it already for companies such as FNAC, Continente, La Redoute, L'Oreal, TAP, Phone House, Sport Zone, Wells, etc.
