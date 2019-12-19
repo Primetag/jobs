@@ -2,12 +2,12 @@
 layout: post
 title:  "Product Designer"
 description: "Create deeply architectured user interfaces|Give concepts body and soul|Sketch, prototype, design, and validate UI/UX|Create tests and studies to ensure usability|Photoshop, Illustrator, Sketch, RAIL model"
-date:   2017-07-31 18:01:00
+date:   2019-12-10 18:01:00
 categories: product
 location: Lisbon
 tags: fulltime
 social_media_message: "Primetag is looking for a Product Designer!"
-published: true
+published: false
 ---
 
 ![]({{ site.url }}/assets/images/productdesigner.png){:width="70%" .center-image}
