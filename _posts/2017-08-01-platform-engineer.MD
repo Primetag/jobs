@@ -2,7 +2,7 @@
 layout: post
 title:  "Platform Engineer"
 description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
-date:   2018-08-10 13:10:54
+date:   2019-12-10 13:10:54
 categories: engineering
 location: Lisbon
 tags: fulltime
