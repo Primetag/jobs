@@ -58,10 +58,9 @@ Overall, you will help us shape our user experience by delivering educational, a
 * Our offices are next to the beach, literally across the road, next to a train station that can take you anywhere in Lisbon. We also have a swimming pool, and a terrace with barbecue ;)
 * Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
 
-https://drive.google.com/open?id=18cbdM1EJM0Vduv5akgCWYGrUFJTz-KN-
-Foto para acrescentar
 
 ![]({{ site.url }}/assets/images/IMG_2359.jpg){:width="70%" .center-image}
+![]({{ site.url }}/assets/images/escritorio.png){:width="70%" .center-image}
 
 ## **How to apply** ##
 
