@@ -60,7 +60,7 @@ Overall, you will help us shape our user experience by delivering educational, a
 
 
 ![]({{ site.url }}/assets/images/IMG_2359.jpg){:width="70%" .center-image}
-![]({{ site.url }}/assets/images/escritorio.png){:width="70%" .center-image}
+![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
 
 ## **How to apply** ##
 
