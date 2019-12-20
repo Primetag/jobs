@@ -5,7 +5,7 @@ description: "Looking for a talented Technical Copywriter who can create content
 date:   2019-12-20 10:19:00
 categories: marketing
 location: Lisbon
-tags: fulltime; IEFP internship
+tags: fulltime, "IEFP internship"
 social_media_message: "Primetag is looking for a Technical Copywriter!"
 image: "https://jobs.primetag.com/assets/images/06_Technical_Copywriter_in.png"
 published: true
