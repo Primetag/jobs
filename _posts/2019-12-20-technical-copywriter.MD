@@ -7,11 +7,11 @@ categories: marketing
 location: Lisbon
 tags: fulltime; IEFP internship
 social_media_message: "Primetag is looking for a Technical Copywriter!"
-image: "https://jobs.primetag.com/assets/images/backender_position.png"
+image: "https://jobs.primetag.com/assets/images/06_Technical_Copywriter_in.png"
 published: true
 ---
 
-![]({{ site.url }}/assets/images//backender_position.png){:width="70%" .center-image}
+![]({{ site.url }}/assets/images//06_Technical_Copywriter_in.png){:width="70%" .center-image}
 
 ## **Who we are** ##
 
@@ -61,7 +61,7 @@ Overall, you will help us shape our user experience by delivering educational, a
 https://drive.google.com/open?id=18cbdM1EJM0Vduv5akgCWYGrUFJTz-KN-
 Foto para acrescentar
 
-![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
+![]({{ site.url }}/assets/images/IMG_2359.jpg){:width="70%" .center-image}
 
 ## **How to apply** ##
 
