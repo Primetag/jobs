@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Product Designer"
+title:  "Product Designer (remote)"
 description: "Create deeply architectured user interfaces|Give concepts body and soul|Sketch, prototype, design, and validate UI/UX|Create tests and studies to ensure usability|Photoshop, Illustrator, Sketch, RAIL model"
 date:   2020-08-01 18:01:00
 categories: product
@@ -18,7 +18,7 @@ Primetag is a young, ambitious and growing tech company, working towards fundame
 
 ## **Who you are** ##
 
-We're looking for a product designer eager to work in a startup environment with a global scale ambition.
+We're looking for a fully remote product designer eager to work in a startup environment with a global scale ambition.
 You should be communicative, pro-active, independent, responsible and motivated by challenge.
 Our culture is about sharing ideas, helping each other and feeling part of the project. You should feel attracted by these values.
 You're also someone who loves to learn and is constantly eager to improve things.
@@ -48,12 +48,8 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 * Competitive compensation, from 1400€ up to 2050€ gross salary, depending on your experience, skill set and performance.
 * Health insurance
-* Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
-* Office in a penthouse by the beach, in a quiet area
-* Amazing ocean panoramic view, with loads of natural light
-* Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment
+* Work from wherever you please
 
-![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
 
 ## **How to apply** ##
 
