@@ -2,7 +2,7 @@
 layout: post
 title:  "Product Designer"
 description: "Create deeply architectured user interfaces|Give concepts body and soul|Sketch, prototype, design, and validate UI/UX|Create tests and studies to ensure usability|Photoshop, Illustrator, Sketch, RAIL model"
-date:   2019-12-10 18:01:00
+date:   2020-08-01 18:01:00
 categories: product
 location: Lisbon
 tags: fulltime
