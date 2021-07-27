@@ -46,7 +46,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Offer and perks** ##
 
-* Competitive compensation, from 1400€ up to 2050€ gross salary, depending on your experience, skill set and performance.
+* Competitive compensation depending on your experience, skill set and performance.
 * Health insurance
 * Work from wherever you please
 
