@@ -4,7 +4,7 @@ title:  "Software Engineer - Python/Django (remote)"
 description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
 date:   2021-07-25 10:19:00
 categories: engineering
-location: Lisbon
+location: Remote
 tags: fulltime
 social_media_message: "Primetag is looking for a Software Engineer!"
 image: "https://jobs.primetag.com/assets/images/backender_position.png"
