@@ -49,8 +49,6 @@ You're also someone who loves to learn and is constantly eager to improve things
 * Health insurance
 * Work from wherever you please
 
-![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
-
 ## **How to apply** ##
 
 {% include email.html %} 
