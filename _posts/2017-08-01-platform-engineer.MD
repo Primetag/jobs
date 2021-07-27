@@ -2,7 +2,7 @@
 layout: post
 title:  "Platform Engineer (remote)"
 description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
-date:   2019-07-20 13:10:54
+date:   2021-07-20 13:10:54
 categories: engineering
 location: Remote
 tags: fulltime
