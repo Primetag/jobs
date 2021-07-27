@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Platform Engineer"
+title:  "Platform Engineer (remote)"
 description: "Design, grow and maintain infrastructure|Automate development and creation processes|Ensure scalability and resilience of micro-service architecture|Assist with backend logic"
-date:   2019-12-10 13:10:54
+date:   2019-07-20 13:10:54
 categories: engineering
-location: Lisbon
+location: Remote
 tags: fulltime
 social_media_message: "Primetag is looking for a Platform Engineer!"
 published: true
@@ -45,12 +45,9 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 ## **Offer and perks** ##
 
-* Competitive compensation, from 1400€ up to 2600€ gross salary, depending on your experience, skill set and performance.
+* Competitive compensation depending on your experience, skill set and performance
 * Health insurance
-* Office right next to the train station, a few minutes from central Lisbon (in Santo Amaro de Oeiras)
-* Office in a penthouse by the beach, in a quiet area
-* Amazing ocean panoramic view, with loads of natural light
-* Swimming-pool, Sauna, Table tennis, Playstation, Surf equipment
+* Work from wherever you please
 
 ![]({{ site.url }}/assets/images/escritorio.jpg){:width="70%" .center-image}
 
