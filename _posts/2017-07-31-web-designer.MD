@@ -2,7 +2,7 @@
 layout: post
 title:  "Product Designer (remote)"
 description: "Create deeply architectured user interfaces|Give concepts body and soul|Sketch, prototype, design, and validate UI/UX|Create tests and studies to ensure usability|Photoshop, Illustrator, Sketch, RAIL model"
-date:   2020-08-01 18:01:00
+date:   2021-07-26 18:01:00
 categories: product
 location: Lisbon
 tags: fulltime
