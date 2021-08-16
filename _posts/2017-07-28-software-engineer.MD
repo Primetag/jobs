@@ -28,12 +28,13 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 * A computer-related engineering degree
 * Highly developed logical thinking
-* Ability to engage in discussions of a wide range of engineering topics (DBs, Networking, Architecture, Scalability, Resilience)
-* Able to embrace that learning is part of the job
 * 2+ years working with Python
+* Ability to engage in discussions of a wide range of engineering topics (DBs, Networking, Architecture, Scalability, Resilience)
+* Used to code review practices and ability to take part in healthy discussions about code standards and developing strategies
+* Able to embrace that learning is part of the job
 * Easily uses Git
 * Experience in web developing
-* It's a plus if you're familiar with some of these: Django, REST, Azure, Docker, Databases, SCRUM, Git flow
+* It's a plus if you're familiar with some of these: Django, FastAPI, REST, Azure, Docker, Kubernetes, SCRUM, Git flow
 
 ## **Responsibilities** ##
 
@@ -41,6 +42,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 * As an engineer you'll deal with the backend logic of several services
 * You'll work with systems architecture, database design and optimization, communications and, of course, business logic (programming)
 * You'll be the project owner of several projects, meaning you'll be responsible for actively ensuring their continuation
+* You'll have to produce technical documentation: API documentation, flowcharts, sequence diagrams or the UML elements you seem fit
 * We expect high quality levels in your work and results
 * You'll have to deal with critical situations calmly and be able to make surgical interventions
 * Expect a high level of independence and responsability
@@ -49,7 +51,7 @@ You're also someone who loves to learn and is constantly eager to improve things
 
 * Competitive compensation depending on your experience, skill set and performance
 * Health insurance
-* Work from wherever you please
+* Work from wherever you please (preferred timezone: GMT0 +/- 4 hours)
 
 ## **How to apply** ##
 
