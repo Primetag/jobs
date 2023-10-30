@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Software Engineer - Python/Django (remote)"
+title:  "Software Engineer - Python (remote)"
 description: "Deal with backend logic of several services|Systems architecture, database design and optimization, communications and business logic|Python, Django, Docker, REST"
-date:   2021-07-25 10:19:00
+date:   2023-10-30 13:29:00
 categories: engineering
 location: Remote
 tags: fulltime
