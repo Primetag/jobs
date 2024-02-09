@@ -2,7 +2,7 @@
 layout: post
 title:  "Frontend Developer (remote)"
 description: "Create web interfaces with the latest technologies|Work with backend engineers and web designers, bridging concepts with functionality|From structural organization to animations, UI and UX|React, Yarn, LESS, Gulp, Grunt, Python"
-date:   2021-07-27 11:50:54
+date:   2024-02-09 14:52:00
 categories: product
 location: Remote
 tags: fulltime
