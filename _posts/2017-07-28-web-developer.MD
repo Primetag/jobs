@@ -8,7 +8,7 @@ location: Remote
 tags: fulltime
 social_media_message: "Primetag is looking for a Frontend Developer!"
 image: "https://jobs.primetag.com/assets/images/frontender_position.png"
-published: true
+published: false
 ---
 
 ![]({{ site.url }}/assets/images//frontender_position.png){:width="70%" .center-image}
