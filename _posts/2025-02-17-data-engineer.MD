@@ -21,22 +21,18 @@ We are seeking an experienced **Data Engineer** to join our R&D team at **Primet
 
 ## Key Responsibilities
 
-### Data Pipeline Development
-* Design, build, and maintain scalable **ETL pipelines** to ingest, process, and deliver data from internal systems like **CRM (e.g., HubSpot)** and analytics tools.
-* Develop and maintain a **data lake** that consolidates raw and processed data, feeding dynamic reports and dashboards.
-
-### Database Management & Automation
-* Oversee database management using **SQL**, ensuring data quality and integrity.
-* Automate routine data processing tasks with **Python**.
-
-### Systems Integration
-* Collaborate with the **Integration & Automation Specialist** to integrate diverse internal data sources, supporting **enhanced operational workflows** and reporting.
-
-### Operational Reporting & Insights
-* Develop **data models and dashboards** that quantify efficiency gains and provide actionable insights to internal teams like **Customer Success** and **Sales**.
-
-### Collaboration & Continuous Improvement
-* Work with **cross-functional teams** to refine processes, adopt best practices, and implement emerging technologies to optimize **internal data infrastructure**.
+* Data Pipeline Development
+    * Design, build, and maintain scalable **ETL pipelines** to ingest, process, and deliver data from internal systems like **CRM (e.g., HubSpot)** and analytics tools.
+    * Develop and maintain a **data lake** that consolidates raw and processed data, feeding dynamic reports and dashboards.
+* Database Management & Automation
+    * Oversee database management using **SQL**, ensuring data quality and integrity.
+    * Automate routine data processing tasks with **Python**.
+* Systems Integration
+    * Collaborate with the **Integration & Automation Specialist** to integrate diverse internal data sources, supporting **enhanced operational workflows** and reporting.
+* Operational Reporting & Insights
+    * Develop **data models and dashboards** that quantify efficiency gains and provide actionable insights to internal teams like **Customer Success** and **Sales**.
+* Collaboration & Continuous Improvement
+    * Work with **cross-functional teams** to refine processes, adopt best practices, and implement emerging technologies to optimize **internal data infrastructure**.
 
 ## Qualifications
 
