@@ -72,7 +72,3 @@ Data Engineer - Internal Operations" in the subject line of the email.
 ### 🌍 **Want to know more about us?**
 * 📜 [**Our Manifesto**](https://a.storyblok.com/f/302516/x/8f9ad3faea/primetag-manifesto.pdf)
 * 🎥 [**Our award-winning web series**](https://www.youtube.com/watch?v=locuy5C02Ww)
-
-
-
-{% include email.html %} 
