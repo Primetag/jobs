@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Engineer (remote)"
-description: "We are seeking an experienced Data Engineer to join our Engineering team at Primetag. This role focuses on internal operations, partnering with our Integration & Automation Specialist and AI Engineers to drive operational efficiency. You will design and maintain data pipelines, integrate internal systems (e.g., CRM, analytics tools), and automate key processes. There is potential to expand into external client use cases in the future."
+description: "Design and maintain data pipelines, integrate internal systems (CRM, analytics tools), and automate processes to enhance operational efficiency."
 date:   2025-02-17 09:29:00
 categories: engineering
 location: Remote
@@ -43,8 +43,8 @@ We are seeking an experienced **Data Engineer** to join our R&D team at **Primet
 * Degree in **Computer Science** or related field.
 * Minimum **2 years of experience** in data engineering.
 * Proven expertise in **building and managing scalable data pipelines and ETL processes**.
-* Strong proficiency in **SQL** and database management.
 * Excellent programming skills in **Python** for data extraction, transformation, and automation.
+* Strong proficiency in **SQL** and database management.
 * Experience integrating **internal systems (e.g., CRM, analytics tools)** to support business operations.
 * Proven experience in **building and managing data lakes** and flexible data models.
 * Ability to collaborate with **Data Analysts and Data Scientists** to translate business needs into **scalable data solutions**.
