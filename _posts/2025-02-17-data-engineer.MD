@@ -66,8 +66,8 @@ We are seeking an experienced **Data Engineer** to join our R&D team at **Primet
 ---
 
 ### 📩 **How to Apply?**
-Send your updated **CV** and **cover letter** to **jobs@primetag.com**.  
-📌 **Subject Line:** `"Job * Data Engineer * Internal Operations"`
+Send your updated **CV** and **cover letter** to **jobs@primetag.com**. Please indicate "Job - 
+Data Engineer - Internal Operations" in the subject line of the email.
 
 ### 🌍 **Want to know more about us?**
 * 📜 [**Our Manifesto**](https://a.storyblok.com/f/302516/x/8f9ad3faea/primetag-manifesto.pdf)
