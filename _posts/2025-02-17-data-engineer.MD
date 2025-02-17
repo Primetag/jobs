@@ -11,8 +11,6 @@ image: "https://jobs.primetag.com/assets/images/backender_position.png"
 published: true
 ---
 
-![]({{ site.url }}/assets/images//backender_position.png){:width="70%" .center-image}
-
 # Data Engineer
 
 ## Job Summary
