@@ -7,7 +7,6 @@ categories: engineering
 location: Remote
 tags: fulltime
 social_media_message: "Primetag is looking for a Data Engineer!"
-image: "https://jobs.primetag.com/assets/images/backender_position.png"
 published: true
 ---
 
