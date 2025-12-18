@@ -6,14 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Open Job Positions
+# title: Open Job Positions
+title: NEW URL -> https://primetag.com/careers
 description: > # this means to ignore newlines until "baseurl:"
   Open job positions at Primetag. Primetag is a young, ambitious 
   and growing tech company, working towards fundamentally empowering 
   the influence world. Using engineering and innovation Primetag 
   tackles the most profound problem hovering the advertising sector.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jobs.primetag.com" # the base hostname & protocol for your site
+# url: "http://jobs.primetag.com" # the base hostname & protocol for your site
+url: "https://primetag.com/careers"
 twitter_username: helloprimetag
 github_username:  primetag
 
